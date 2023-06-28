@@ -1,5 +1,6 @@
 # Reticular_Chemist
 
+Please check out https://arxiv.org/abs/2306.14915 for more details and examples.
 
 This Python script generates prompt for GPT-4 to guide a human apprentice in a research project to develop new MOFs in reticular chemistry. 
 
