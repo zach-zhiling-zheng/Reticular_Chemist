@@ -2,6 +2,8 @@
 
 <img src="./docs/images/logo.png" width="15%" height="15%">
 
+Credits: This image was generated with the assistance of AI
+
 ## Requirements and Usage
 
 The script runs on the Python stack and requires the following packages: 
@@ -74,3 +76,5 @@ For Pandas:
 > pandas-dev/pandas: Pandas (version: latest) <br/>
 > The pandas development team <br/>
 > https://doi.org/10.5281/zenodo.3509134 <br/>
+
+
