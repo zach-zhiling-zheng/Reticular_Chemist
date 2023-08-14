@@ -45,7 +45,7 @@ More details about the GPT-4 Reticular Chemist are given in the following prepri
 > Zhiling Zheng[^1], Zichao Rong[^1], Nakul Rampal, Christian Borgs, Jennifer T. Chayes, Omar M. Yaghi[^2] <br/>
 > https://arxiv.org/abs/2306.14915 <br/>
 
-[^1]: Equal Contribution
+[^1]: Contributed equally
 [^2]: Corresponding author (email: yaghi@berkeley.edu)
 
 
