@@ -34,6 +34,7 @@ The data used in the interactive prompting strategy at each step of the process 
 
 The input prompt generation script is distributed under the MIT open source license (see [`LICENSE.txt`](LICENSE.txt))
 
+
 ## Citation
 
 More details about the GPT-4 Reticular Chemist are given in the following preprint:
@@ -44,6 +45,21 @@ More details about the GPT-4 Reticular Chemist are given in the following prepri
 
 [^1]: Equal Contribution
 [^2]: Corresponding author (email: yaghi@berkeley.edu)
+
+
+## Contributing
+
+If you have any questions/comments/feedback, please feel free to reach out to any of the authors.
+
+In addition, if you have any new feature requests or if you find any bugs, please open a new [issue](https://github.com/zach-zhiling-zheng/Reticular_Chemist/issues).
+
+## Acknowledgements
+
+We acknowledge the financial support from the following sources:
+1. Defense Advanced Research Projects Agency (DARPA) under contract HR0011-21-C-0020 
+2. Bakar Institute of Digital Materials for the Planet (BIDMaP)
+3. NIH (Grant S10-RR027172)
+4. Kavli ENSI Graduate Student Fellowship
 
 ## References
 
