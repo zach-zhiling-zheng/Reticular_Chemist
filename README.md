@@ -1,6 +1,6 @@
 # GPT-4 Reticular Chemist
 
-<img src="./docs/images/logo.png" width="15%" height="15%">
+<img src="./docs/images/logo.png" width="25%" height="25%">
 
 Credits: This image was generated with the assistance of AI
 
