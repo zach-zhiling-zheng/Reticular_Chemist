@@ -4,6 +4,10 @@
 
 Credits: This image was generated with the assistance of AI
 
+https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983
+Zheng, Zhiling, Rong, Zichao, Rampal, Nakul, Borgs, Christian, Chayes, Jennifer T., Yaghi, Omar M., Angew. Chem. Int. Ed. 2023, e202311983.
+
+
 ## Requirements and Usage
 
 The script runs on the Python stack and requires the following packages: 
