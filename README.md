@@ -5,6 +5,7 @@
 Credits: This image was generated with the assistance of AI
 
 https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983
+
 Zheng, Zhiling, Rong, Zichao, Rampal, Nakul, Borgs, Christian, Chayes, Jennifer T., Yaghi, Omar M., Angew. Chem. Int. Ed. 2023, e202311983.
 
 
@@ -45,7 +46,7 @@ The input prompt generation script is distributed under the MIT open source lice
 
 More details about the GPT-4 Reticular Chemist are given in the following preprint:
 
-> *GPT-4 Reticular Chemist for MOF Discovery* <br/>
+> *A GPT-4 Reticular Chemist for MOF Discovery* <br/>
 > Zhiling Zheng[^1], Zichao Rong[^1], Nakul Rampal, Christian Borgs, Jennifer T. Chayes, Omar M. Yaghi[^2] <br/>
 > https://arxiv.org/abs/2306.14915 <br/>
 
