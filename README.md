@@ -4,10 +4,16 @@
 
 Credits: This image was generated with the assistance of AI
 
-https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983
+## Citation
 
-Zheng, Zhiling, Rong, Zichao, Rampal, Nakul, Borgs, Christian, Chayes, Jennifer T., Yaghi, Omar M., _Angew. Chem. Int. Ed._ **2023**, e202311983.
+More details about the GPT-4 Reticular Chemist are given in the following preprint and published work:
 
+> *A GPT-4 Reticular Chemist for MOF Discovery* <br/>
+> Zhiling Zheng[^1], Zichao Rong[^1], Nakul Rampal, Christian Borgs, Jennifer T. Chayes, Omar M. Yaghi[^2] <br/>
+> https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983 <br/>
+
+[^1]: Contributed equally
+[^2]: Corresponding author (email: yaghi@berkeley.edu)
 
 ## Requirements and Usage
 
@@ -42,17 +48,7 @@ The first 7 columns of the datasheet correspond to the *output* from GPT-4, whil
 The input prompt generation script is distributed under the MIT open source license (see [`LICENSE.txt`](LICENSE.txt))
 
 
-## Citation
 
-More details about the GPT-4 Reticular Chemist are given in the following preprint and published work:
-
-> *A GPT-4 Reticular Chemist for MOF Discovery* <br/>
-> Zhiling Zheng[^1], Zichao Rong[^1], Nakul Rampal, Christian Borgs, Jennifer T. Chayes, Omar M. Yaghi[^2] <br/>
-> https://arxiv.org/abs/2306.14915 <br/>
-> https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983 <br/>
-
-[^1]: Contributed equally
-[^2]: Corresponding author (email: yaghi@berkeley.edu)
 
 
 ## Contributing
