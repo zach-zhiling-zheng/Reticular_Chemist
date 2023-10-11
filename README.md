@@ -8,7 +8,7 @@ Credits: This image was generated with the assistance of AI
 
 More details about the GPT-4 Reticular Chemist are given in the following published work:
 
-> *A GPT-4 Reticular Chemist for MOF Discovery* <br/>
+> *A GPT-4 Reticular Chemist for Guiding MOF Discovery* <br/>
 > Zhiling Zheng[^1], Zichao Rong[^1], Nakul Rampal, Christian Borgs, Jennifer T. Chayes, Omar M. Yaghi[^2] <br/>
 > https://onlinelibrary.wiley.com/doi/10.1002/anie.202311983 <br/>
 
